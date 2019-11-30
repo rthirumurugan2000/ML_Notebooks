@@ -1,4 +1,4 @@
 # Machine-learning-Projects
 
-### Developer: Thirumurugan Ramar
+### Developer: Thirumurugan Ramar,IIIT Guwahati
 This repository contains my Machine Learning Projects.
