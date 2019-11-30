@@ -6,7 +6,7 @@ Buying a home, especially in a city like Bengaluru, is a tricky choice. While th
 
 So what determines the property prices in Namma Bengaluru?
 
-DEVELOPER:
+#### DEVELOPER:
 -THIRUMURUGAN RAMAR 
 
 
