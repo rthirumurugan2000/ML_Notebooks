@@ -1,4 +1,4 @@
-# Simple-Machine-learning-Projects
+# Mini-Machine-learning-Projects
 
 ### Developer: Thirumurugan Ramar,IIIT Guwahati,Btech CSE
 
