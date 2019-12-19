@@ -1,4 +1,4 @@
-# ML:PREDICTING-HOUSE-PRICES-IN-BENGALURU
+# PREDICTING-HOUSE-PRICES-IN-BENGALURU
 Predict-house-prices-in-Bengaluru
 ### Organised by MachineHack
 
